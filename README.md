@@ -2,11 +2,13 @@
 - Data Collection Tools: REDCap, KoboToolbox, Microsoft Forms, Google Forms, and Excel form
 - Data Analysis & Visualization: Microsoft Excel, R Studio, Power BI
 - Health Information Systems: mSupply Pharmaceutical Management System, DHIS2, and Shyulab
-- Statistical Analysis: Descriptive & Inferential Statistics (qualitative and quantitative methods)
+- Statistical Analysis → Quantitative & Qualitative Analysis 
 
 # IT Systems
 - Program language: R Studio, Python, SQL, HTML, JavaScript, and PHP
 - System management: mSupply Pharmaceutical Management System, QuikBooks System, Google, and Microsoft Environments and AI Agent(n8n)
+- Database: MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database
+- Container Engine: Docker
 
 # Education
 - Bachelor’s Degree in Computer Science at the University of 17 August 1945, Surabaya
