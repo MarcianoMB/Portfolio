@@ -1,7 +1,7 @@
 # Data Scientist
 - Data Collection Tools: REDCap, KoboToolbox, Microsoft Forms, Google Forms, and Excel form
 - Data Analysis & Visualization: Microsoft Excel, R Studio, Power BI
-- Health Information Systems:mSupply Pharmaceutical Management System, DHIS2, and Shyulab
+- Health Information Systems: mSupply Pharmaceutical Management System, DHIS2, and Shyulab
 - Statistical Analysis: Descriptive & Inferential Statistics (qualitative and quantitative methods)
 
 # IT Systems
@@ -14,13 +14,12 @@
 # Work Experience
 ### Data Scientist
 - Technical Data Scientist and Health Informatics Officer – Menzies, Timor-Leste
-- Designed and managed databases for the Camo-net and Influence of Culture on Food Practices in Timor-Leste study projects using** REDCap**.
-- Developed monitoring reports and performed data analysis to improve data quality for **Stomag**, **Camo-net**, and **Influence of Culture on Food Practices in Timor-Leste** study projects using RStudio, with outputs including tables and visualizations.
+- Designed and managed databases for the Camo-net and Influence of Culture on Food Practices in Timor-Leste study projects using **REDCap**.
+- Developed monitoring reports and performed data analysis to improve data quality for **Stomag**, **Camo-net**, and **Influence of Culture on Food Practices in Timor-Leste** study projects using **RStudio**, with outputs including tables and visualizations.
 - Provided ongoing support for data monitoring and reporting for the **BEN, NeoSepsis, Delphi**, and **Vasina TL II** study projects using RStudio.
 - Designed and implemented data collection forms, monitoring systems, and analyses for the Training Needs Assessment Survey and English Language Assessment at Menzies, using Microsoft Forms.
 - Developed a System for Automated Reports and Dashboards (SARAD) for the Perinatology Unit at HNGV, based on Excel.
 - Built an automated system to generate and send participant certificates via Google Enviroment for workshop facilitation.
-
 ### IT Systems
 - Technical Support – mSupply Pharmaceutical Management System, SAMES.IP (INFPM): Installed and configured mSupply Desktop, mSupply Mobile, Open mSupply, mSupply Web, and Grafana Dashboards. Provided internet connectivity setup and staff training at multiple facilities: HNGV (1), LNS (1), DNFM (1), HR (5), SMS (14), CHC (71), Health Posts (318) across Timor-Leste.
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
