@@ -15,7 +15,7 @@
 
 # Work Experience
 ### Data Scientist
-- Technical Data Scientist and Health Informatics Officer – Menzies School of Health Research, Timor-Leste https://www.menzies.edu.au/page/About_Us/
+- Technical Data Scientist and Health Informatics Officer – Menzies School of Health Research, Timor-Leste (https://www.menzies.edu.au)
 - Designed and managed databases for the Camo-net and Influence of Culture on Food Practices in Timor-Leste study projects using **REDCap**.
 - Developed monitoring reports and performed data analysis to improve data quality for **Stomag**, **Camo-net**, and **Influence of Culture on Food Practices in Timor-Leste** study projects using **RStudio**, with outputs including tables and visualizations.
 - Provided ongoing support for data monitoring and reporting for the **BEN, NeoSepsis, Delphi II**, and **Vasina TL II** study projects using RStudio.
