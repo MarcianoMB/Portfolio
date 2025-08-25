@@ -27,4 +27,4 @@
 - Sales & Marketing Analyst – Daya Marketing: Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
 
 ### Projects 
-EEG Band Discovery
+
