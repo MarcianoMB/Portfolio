@@ -21,7 +21,7 @@
 - Developed a System for Automated Reports and Dashboards (SARAD) for the Perinatology Unit at HNGV, based on Excel.
 - Built an automated system to generate and send participant certificates via Google Enviroment for workshop facilitation.
 
-####IT Systems
+### IT Systems
 - Technical Support – mSupply Pharmaceutical Management System, SAMES.IP (INFPM): Installed and configured mSupply Desktop, mSupply Mobile, Open mSupply, mSupply Web, and Grafana Dashboards. Provided internet connectivity setup and staff training at multiple facilities: HNGV (1), LNS (1), DNFM (1), HR (5), SMS (14), CHC (71), Health Posts (318) across Timor-Leste.
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
 - Sales & Marketing Analyst – Daya Marketing: Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
