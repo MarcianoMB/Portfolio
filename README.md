@@ -6,7 +6,7 @@
 
 # IT Systems
 - Program language: R Studio, Python, SQL, HTML, JavaScript, and PHP
-- System management: mSupply Pharmaceutical Management System, QuikBooks System, Google and Microsoft Environments and AI Agent(n8n)
+- System management: mSupply Pharmaceutical Management System, QuikBooks System, Google, and Microsoft Environments and AI Agent(n8n)
 
 # Education
 - Bachelor’s Degree in Computer Science at the University of 17 August 1945, Surabaya
@@ -14,9 +14,9 @@
 # Work Experience
 ### Data Scientist
 - Technical Data Scientist and Health Informatics Officer – Menzies, Timor-Leste
-- Designed and managed databases for the Camo-net and Influence of Culture on Food Practices in Timor-Leste studies using** REDCap**.
-- Developed monitoring reports and performed data analysis to improve data quality for **Stomag**, **Camo-net**, and **Influence of Culture on Food Practices in Timor-Leste** studies using RStudio, with outputs including tables and visualizations.
-- Provided ongoing support for data monitoring and reporting for the **BEN, NeoSepsis, Delphi**, and **Vasina TL II** studies using RStudio.
+- Designed and managed databases for the Camo-net and Influence of Culture on Food Practices in Timor-Leste study projects using** REDCap**.
+- Developed monitoring reports and performed data analysis to improve data quality for **Stomag**, **Camo-net**, and **Influence of Culture on Food Practices in Timor-Leste** study projects using RStudio, with outputs including tables and visualizations.
+- Provided ongoing support for data monitoring and reporting for the **BEN, NeoSepsis, Delphi**, and **Vasina TL II** study projects using RStudio.
 - Designed and implemented data collection forms, monitoring systems, and analyses for the Training Needs Assessment Survey and English Language Assessment at Menzies, using Microsoft Forms.
 - Developed a System for Automated Reports and Dashboards (SARAD) for the Perinatology Unit at HNGV, based on Excel.
 - Built an automated system to generate and send participant certificates via Google Enviroment for workshop facilitation.
