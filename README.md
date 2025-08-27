@@ -20,12 +20,12 @@
 - Developed monitoring reports and performed data analysis to improve data quality for **Stomag**, **Camo-net**, and **Influence of Culture on Food Practices in Timor-Leste** study projects using **RStudio**, with outputs including tables and visualizations.
 - Provided ongoing support for data monitoring and reporting for the **BEN, NeoSepsis, Delphi II**, and **Vasina TL II** study projects using RStudio.
 - Designed and implemented data collection forms, monitoring, and analyses for the Data Training Needs Assessment Survey and English Language Assessment at Menzies, using Microsoft Forms as part of my SORT-IT training.
-- Developed a System for Automated Reports and Dashboards (SARAD) for the Perinatology Unit at HNGV, based on Excel.
+- Developed a System for Automated Reports and Dashboards (**SARAD**) for the Perinatology Unit at HNGV, using Excel 365 with the functions Power Query, Power Pivot, and macros.
 - Built an automated system to generate and send participant certificates via Google Enviroment for workshop facilitation.
 ### IT Systems
-- Technical Support – mSupply Pharmaceutical Management System, SAMES.IP (INFPM) (https://fpm.gov.tl/tl): Installed and configured mSupply Desktop, mSupply Mobile, Open mSupply, mSupply Web, and Grafana Dashboards. Provided internet connectivity setup and staff training at multiple facilities: HNGV (1), LNS (1), DNFM (1), HR (5), SMS (14), CHC (71), Health Posts (318) across Timor-Leste.
+- Technical IT mSupply Project – mSupply Pharmaceutical Management System, SAMES.IP/INFPM (https://fpm.gov.tl/tl): Installed and configured mSupply Desktop, mSupply Mobile, Open mSupply, mSupply Web, and Grafana Dashboards. Provided internet connectivity setup and staff training at multiple facilities: HNGV (1), LNS (1), DNFM (1), HR (5), SMS (14), CHC (71), Health Posts (318) across Timor-Leste.
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
-- Sales & Marketing Analyst – Daya Marketing (https://www.dayamarketing.co/) : Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
+- Sales & Marketing Analyst – Daya Marketing (https://www.dayamarketing.co/): Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
 
 ### Projects 
 
