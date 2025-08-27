@@ -35,8 +35,7 @@ Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
 - Sales & Marketing Analyst – Daya Marketing (https://www.dayamarketing.co/): Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
 
-# Education Non Formal
-## Certificates in Data Science for 2024–2025
+## Releated Certificates 
 - 1	Certificate_LinkedIn	Statistics Foundations 1 The Basics
 - 2	Certificate_LinkedIn	Statistics Foundations 2 Probability
 - 3	Certificate_LinkedIn	Statistics Foundations 3 Using Data Sets
