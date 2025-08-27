@@ -31,5 +31,31 @@ Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
 - Sales & Marketing Analyst – Daya Marketing (https://www.dayamarketing.co/): Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
 
+# Education Non Formal
+## Certificates in Data Science for 2024–2025
+- 1	Certificate_LinkedIn	Statistics Foundations 1 The Basics
+- 2	Certificate_LinkedIn	Statistics Foundations 2 Probability
+- 3	Certificate_LinkedIn	Statistics Foundations 3 Using Data Sets
+- 4	Certificate_LinkedIn	Excel Essential Training Microsoft 365
+- 5	Certificate_LinkedIn	Excel Creating a Dashboard with Power Query Microsoft 365
+- 6	Certificate_LinkedIn	Power BI Dashboards for Beginners
+- 7	Certificate_LinkedIn	Microsoft Power Platform Fundamentals PL900 Cert Prep Power BI
+- 8	Certificate_LinkedIn	Power BI Data Analyst Associate PL300 Cert Prep Designing and Developing a Power BI Data Model
+- 9	Certificate_Online Academy	DHIS2 Online Academy hisp GEN-D001-en
+- 10	Certificate_LinkedIn	SQL for Data Analysis
+- 11	Certificate_CARE online Academy	The Basics of Monitoring, Evaluation, and Learning
+- 12	certificate_DQLA	DQLAB Introduction R in Data Science
+- 13	Certificate_LinkedIn	R for Data Science Analysis and Visualization
+- 14	Certificate_LinkedIn	R for Excel Users
+- 15	Certificate_LinkedIn	Preparing to Get a job in Data Analytics
+- 16	Certificate_LinkedIn	Analytical Thinking to Evaluate Conclusions
+- 17	Certificate_LinkedIn	Tech Talk for Nontechnical Professionals
+- 18	Certificate_LinkedIn	Sosial Success at Work
+- 19	Certificate_LinkedIn	Presenting Data Effectively to Inform and Inspire
+- 20	Certificate_Menzies CDU	2024 Kevin Mitnick Security Awareness Training 2025
+- 21	Certificate_Menzies Office	Sort IT Training
+ 
+
+
 
 
