@@ -1,6 +1,7 @@
 ## 📫 Kontak
+### Marciano Moniz Bere
 Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
-Name : Marciano Moniz Bere
+
 
 # Skills
 ## Data Scientist
