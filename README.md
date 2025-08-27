@@ -1,13 +1,14 @@
 ## 📫 Kontak
 Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
 
-# Data Scientist
+# Skills
+## Data Scientist
 - Data Collection Tools: REDCap, KoboToolbox, Microsoft Forms, Google Forms, and Excel form
 - Data Analysis & Visualization: Microsoft Excel, R Studio, Power BI
 - Health Information Systems: mSupply Pharmaceutical Management System, DHIS2, and Shyulab
 - Statistical Analysis → Quantitative & Qualitative Analysis 
 
-# IT Systems
+## IT Systems
 - Program language: R Studio, Python, SQL, HTML, JavaScript, and PHP
 - System management: mSupply Pharmaceutical Management System, QuikBooks System, Google, and Microsoft Environments and AI Agent(n8n)
 - Database: MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database
