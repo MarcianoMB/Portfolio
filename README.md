@@ -1,3 +1,6 @@
+## 📫 Kontak
+Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
+
 # Data Scientist
 - Data Collection Tools: REDCap, KoboToolbox, Microsoft Forms, Google Forms, and Excel form
 - Data Analysis & Visualization: Microsoft Excel, R Studio, Power BI
