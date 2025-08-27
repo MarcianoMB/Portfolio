@@ -25,6 +25,7 @@ Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
 - Designed and implemented data collection forms, monitoring, and analyses for the Data Training Needs Assessment Survey and English Language Assessment at Menzies, using Microsoft Forms as part of my SORT-IT training.
 - Developed a System for Automated Reports and Dashboards (**SARAD**) for the Perinatology Unit at HNGV, using Excel 365 with the functions Power Query, Power Pivot, and macros.
 - Built an automated system to generate and send participant certificates via Google Enviroment for workshop facilitation.
+  
 ### IT Systems
 - Technical IT mSupply Project – mSupply Pharmaceutical Management System, SAMES.IP/INFPM (https://fpm.gov.tl/tl): Installed and configured mSupply Desktop, mSupply Mobile, Open mSupply, mSupply Web, and Grafana Dashboards. Provided internet connectivity setup and staff training at multiple facilities: HNGV (1), LNS (1), DNFM (1), HR (5), SMS (14), CHC (71), Health Posts (318) across Timor-Leste.
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
