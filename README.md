@@ -1,5 +1,6 @@
 ## 📫 Kontak
 Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
+Name : Marciano Moniz Bere
 
 # Skills
 ## Data Scientist
@@ -10,7 +11,8 @@ Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
 
 ## IT Systems
 - Program language: R Studio, Python, SQL, HTML, JavaScript, and PHP
-- System management: mSupply Pharmaceutical Management System, QuikBooks System, Google, and Microsoft Environments and AI Agent(n8n)
+- System management: mSupply Pharmaceutical Management System, QuikBooks System, Google, and Microsoft Environments
+- Automation & Integration Tools: Power Automate, Power Apps, n8n, Google Apps Script, API Integration, and other related tools
 - Database: MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database
 - Container Engine: Docker
 
