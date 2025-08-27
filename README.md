@@ -27,5 +27,5 @@
 - IT Support – Dilimart Supermarket, Dili: Managed the QuickBooks system and provided network administration for Dilimart and associated companies.
 - Sales & Marketing Analyst – Daya Marketing (https://www.dayamarketing.co/): Managed sales operations and merchandising, while analyzing product sales performance and promotional effectiveness.
 
-### Projects 
+
 
