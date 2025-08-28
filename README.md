@@ -50,7 +50,7 @@ Email: marcymoniz55@gmail.com / marciano.bere@menzies.edu.au
 - 12	certificate_DQLA	DQLAB Introduction R in Data Science
 - 13	Certificate_LinkedIn	R for Data Science Analysis and Visualization
 - 14	Certificate_LinkedIn	R for Excel Users
-- 15	Certificate_LinkedIn	Preparing to Get a job in Data Analytics
+- 15	Certificate_LinkedIn	Preparing to Get a Job in Data Analytics
 - 16	Certificate_LinkedIn	Analytical Thinking to Evaluate Conclusions
 - 17	Certificate_LinkedIn	Tech Talk for Nontechnical Professionals
 - 18	Certificate_LinkedIn	Sosial Success at Work
